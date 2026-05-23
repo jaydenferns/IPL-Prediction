@@ -123,7 +123,7 @@ This helps the model understand current team momentum.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/IPL-Match-Winner-Prediction.git
+git clone https://github.com/jaydenferns/IPL-Prediction.git
 ```
 
 ---
@@ -201,8 +201,3 @@ in building practical machine learning systems.
 
 ---
 
-# 👨‍💻 Author
-
-Jayden Fernandes
-
-Computer Engineering Student | AIML Enthusiast
